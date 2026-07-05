@@ -1,1 +1,47 @@
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Large generated outputs
+sessions/
+outputs/
+uploaded_videos/
+vehicle_images/
+analytics/
+reports/
+
+# Model files
+*.pt
+*.onnx
+*.engine
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Images generated during processing
+*.jpg
+*.jpeg
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
