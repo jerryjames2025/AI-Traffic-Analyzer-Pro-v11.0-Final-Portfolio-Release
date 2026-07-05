@@ -153,10 +153,10 @@ AI-Traffic-Analyzer/
 ├── uploaded_videos/
 └── outputs/
 
-▶️ How to Run
-Run the dashboard
-cd dashboard
-streamlit run app.py
+#▶️ How to Run
+-Run the dashboard
+-cd dashboard
+-streamlit run app.py
 
 Then open the local Streamlit URL shown in the terminal.
 
