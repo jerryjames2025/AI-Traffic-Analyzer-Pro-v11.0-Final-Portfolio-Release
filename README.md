@@ -153,17 +153,5 @@ AI-Traffic-Analyzer/
 ├── uploaded_videos/
 └── outputs/
 
-#▶️ How to Run
--Run the dashboard
--cd dashboard
--streamlit run app.py
-
-Then open the local Streamlit URL shown in the terminal.
-
-🎥 How to Use
-Open the dashboard
-Go to Upload Video
-Upload a traffic video
-Click Process Uploaded Video
-Wait for processing to complete
+ng to complete
 Open Dashboard, Gallery, Violations, Analytics, Reports, or AI Assistant
